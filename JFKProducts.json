@@ -1,0 +1,61 @@
+[  {    
+    "id": 1,    
+    "name": "Matcha Green Tea Powder",    
+    "description": "High-quality Japanese green tea powder, perfect for making traditional matcha tea or for use in baking.",    
+    "price": 19.99,    
+    "image": "matcha-tea-powder.jpg"  },  
+
+    {    
+    "id": 2,    
+    "name": "Soy Sauce",    
+    "description": "Traditional Japanese soy sauce, brewed for several months to bring out its rich, umami flavor.",    
+    "price": 7.99,    
+    "image": "soy-sauce.jpg"  },  
+    {    
+    "id": 3,    
+    "name": "Ramen Noodles",    
+    "description": "Authentic Japanese ramen noodles, made with wheat flour and kansui (alkaline) water for a chewy texture.",  
+    "price": 3.99,    
+    "image": "ramen-noodles.jpg"  },  
+    {    
+    "id": 4,    
+    "name": "Wasabi",    
+    "description": "Spicy Japanese condiment, made from a blend of horseradish, mustard, and food coloring.",    
+    "price": 4.99,    
+    "image": "wasabi.jpg"  },  
+    {    
+    "id": 5,    
+    "name": "Tempura Batter Mix",    
+    "description": "Easy-to-use tempura batter mix, perfect for making crispy and light tempura at home.",    
+    "price": 5.99,    
+    "image": "tempura-batter-mix.jpg"  },
+   {    
+    "id": 6,    
+    "name": "Sushi Rice",    
+    "description": "Short-grain Japanese rice, specially formulated for making sushi with its sticky texture.",    
+    "price": 4.99,    
+    "image": "sushi-rice.jpg"  },  
+    {    
+    "id": 7,    
+    "name": "Miso Soup",    
+    "description": "Traditional Japanese soup made from fermented soybeans and dashi broth, perfect for a warm and comforting meal.",    
+    "price": 2.99,    
+    "image": "miso-soup.jpg"  },  
+    {    
+    "id": 8,    
+    "name": "Panko Breadcrumbs",    
+    "description": "Japanese-style breadcrumbs, made from bread without crusts and resulting in a crispier texture.",    
+    "price": 3.99,    
+    "image": "panko-breadcrumbs.jpg"  },  
+    {    
+    "id": 9,    
+    "name": "Teriyaki Sauce",    
+    "description": "Sweet and savory Japanese sauce made from soy sauce, mirin, sake, and sugar, perfect for marinading meats and vegetables.",    
+    "price": 5.99,    
+    "image": "teriyaki-sauce.jpg"  },  
+    {    
+    "id": 10,    
+    "name": "Nori Seaweed",    
+    "description": "Thin sheets of dried and roasted seaweed, commonly used in sushi rolls and other Japanese dishes.",    
+    "price": 3.99,    
+    "image": "nori-seaweed.jpg"  }]

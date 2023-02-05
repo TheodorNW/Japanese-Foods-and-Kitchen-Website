@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Japanese Foods & Kitchen</title>
+    <link rel="stylesheet" href="JFKStyle.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="JFKProducts.html">Products</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="about">
+        <h1>About Japanese Foods & Kitchen</h1>
+        <p>Introduce the company, its history, and mission.</p>
+      </section>
+
+      <section id="product">
+        <h1>Products</h1>
+        <h2>Asian Groceries</h2>
+        <p>List and describe the Asian groceries the company sells.</p>
+        <h2>Japanese Food</h2>
+        <p>List and describe the Japanese food the company sells.</p>
+      </section>
+
+      <section id="contact">
+        <h1>Contact</h1>
+        <form action="submit-form.php" method="post">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email">
+          <label for="message">Message:</label>
+          <textarea id="message" name="message"></textarea>
+          <input type="submit" value="Submit">
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>Copyright © 2023 Japanese Foods & Kitchen</p>
+    </footer>
+  </body>
+  <script  src="JFKScript.js"></script>
+</html>
